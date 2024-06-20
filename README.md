@@ -1,3 +1,5 @@
-Built a project with links and images
+I'm a fullstack developer
 
-the project helps to strengthen my knowledge in basic HTML concept.
+Perfecting my skills with Frontend development
+
+Love to travel.
