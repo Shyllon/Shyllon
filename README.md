@@ -1,5 +1,5 @@
 I'm a fullstack developer
 
-Perfecting my skills with Frontend development
+Ready for partnership, intrested in Education, Supply Chain / Logistics and Real estate
 
 Love to travel.
