@@ -40,7 +40,7 @@ I am a dynamic **Brand Strategist**, **Software Developer**, and **Content Creat
 ### 🌍 **Let’s Connect:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/afolabi-shyllon-bb6402246)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Shyllon)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome)](https://6762e06f3cf02a1a110fd655--afolabishyllon.netlify.app/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome)](https://afolabi-shyllon.vercel.app/)  
 
 ---
 ### **Activities Stats:** 
