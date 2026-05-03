@@ -38,6 +38,7 @@ Security: Row-Level Security (RLS) | Validation Logic
 Tools: Git | GitHub
 
 🚀 Other Selected Projects
+
 🔹 EduMatch Nigeria
 
 Full-stack educational platform combining learning resources and career guidance.
@@ -67,8 +68,11 @@ Secure and scalable backend systems
 Real-world problem-solving through engineering
 
 📫 Connect With Me
+
 LinkedIn: https://linkedin.com/in/afolabi-shyllon
+
 Portfolio: https://afolabi-shyllon.vercel.app/
+
 GitHub: https://github.com/Shyllon
 
 🧠 Closing Statement
