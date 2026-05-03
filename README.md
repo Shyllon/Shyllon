@@ -1,6 +1,6 @@
-Hi, I'm Afolabi Shyllon 
+Hello, I am Afolabi Shyllon 
 
-Backend Engineer | Node.js | API Systems | Secure Backend Architect
+Backend Engineer | Node.js | API Systems | Backend Architecture | Secure Systems
 
 I design and build backend systems focused on data integrity, secure APIs, and real-time validation workflows.
 My work sits at the intersection of system design, backend logic, and practical problem-solving in production-like environments.
