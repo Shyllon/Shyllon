@@ -1,52 +1,75 @@
-# Hi there, I'm Afolabi Shyllon! 👋  
+Hi, I'm Afolabi Shyllon 👨‍💻
+Backend Engineer | Node.js | API Systems | Secure Backend Architect
 
-🚀 **Empowering Brands | Crafting Solutions | Driving Impact**  
+I design and build backend systems focused on data integrity, secure APIs, and real-time validation workflows.
+My work sits at the intersection of system design, backend logic, and practical problem-solving in production-like environments.
 
-I am a dynamic **Brand Strategist**, **Software Developer**, and **Content Creator** with a passion for blending creativity and technology to deliver exceptional results. My goal is to create innovative strategies and solutions that empower businesses, inspire individuals, and shape communities.
+Currently focused on building scalable backend systems using Node.js, Express, and PostgreSQL-based architectures.
 
----
+What I Build
+RESTful APIs for real-world applications
+Fraud detection and validation systems
+Modular backend architectures (controller-service design)
+Secure data systems with access control (RLS, authentication logic)
+Scalable backend services for full-stack applications
 
-### 🌟 **What Drives Me:**
-- **Strategic Branding:** Creating tailored strategies that connect deeply with target audiences and spark growth.  
-- **Innovative Development:** Transforming ideas into functional, user-centric digital solutions using modern tools and technologies.  
-- **Engaging Content:** Crafting captivating narratives and designs that resonate across diverse platforms.
+🛡️ Flagship Project
+🛡️ VendorGuard AI — Real-Time Fraud Detection System
 
----
+A backend system that prevents financial fraud by validating receipts using OCR, session verification, and replay attack detection.
 
-### 🛠️ **My Toolkit:**
-#### **Programming & Development:**  
-- Languages: JavaScript | Python | SQL | HTML | CSS  
-- Frameworks: Bootstrap | Node.js | Express.js  
-- Platforms: Microsoft Power Platform | Low-Code Solutions  
+Key Backend Work:
 
-#### **Creative Tools:**  
-- Canva | Figma | Adobe XD  
-- Content Creation for Social Media Campaigns  
+Designed fraud detection backend architecture
+Built REST APIs for receipt verification
+Implemented replay attack detection logic
+Integrated Supabase with Row-Level Security (RLS)
+Structured modular backend services
 
-#### **Workflow Mastery:**  
-- Version Control: Git  
-- Agile Practices | Project Management Tools: Monday.com | Trello  
+👉 This is my primary systems engineering project.
 
----
+⚙️ Tech Stack
 
-### 📈 **Highlights & Achievements:**  
-- **40% Audience Growth** in 6 months as Strategic Team Lead at PrismPulse Media.  
-- **15% Improved Delivery Efficiency** as Logistics Lead at Cam Dairy Foods Limited.  
-- **State Recognition Award** during NYSC for impactful community projects in Cross River State.  
-- Spearheaded the **Annual Leadership Conference** for Rock House Foundation.  
+Backend: Node.js | Express.js
+Database: PostgreSQL (Supabase)
+Architecture: REST APIs | Modular Services
+Security: Row-Level Security (RLS) | Validation Logic
+Tools: Git | GitHub
 
----
+🚀 Other Selected Projects
+🔹 EduMatch Nigeria
 
-### 🌍 **Let’s Connect:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/afolabi-shyllon-bb6402246)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Shyllon)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome)](https://afolabi-shyllon.vercel.app/)  
+Full-stack educational platform combining learning resources and career guidance.
 
----
-### **Activities Stats:** 
-![Afolabi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shyllon&show_icons=true&theme=radical)
-### **Language Stats:** 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyllon&layout=compact&theme=radical)
+🔹 split-the-cost
 
-✨ **"Dream it, build it, and let it inspire."**  
-I’m always excited to collaborate on meaningful projects and explore new opportunities. Let’s build something extraordinary together!
+Hackathon project focused on collaborative expense tracking and splitting logic.
+
+🔹 card-validation
+
+Backend logic system for validating structured input data and rules.
+
+🔹 simple_api
+
+Lightweight REST API system demonstrating backend structuring principles.
+
+📈 Experience Highlights
+Built fraud detection backend system (VendorGuard AI) during Interswitch x Enyata Buildathon
+Improved operational efficiency by 15% in logistics systems (Cam Dairy Foods)
+Increased digital audience growth by 40% through structured media strategy (PrismPulse Media)
+Led technical and organizational initiatives across education and leadership programs
+
+🧭 What I’m Focused On
+Backend engineering (Node.js ecosystem)
+API design & system architecture
+Secure and scalable backend systems
+Real-world problem-solving through engineering
+
+📫 Connect With Me
+LinkedIn: https://linkedin.com/in/afolabi-shyllon
+Portfolio: https://afolabi-shyllon.vercel.app/
+GitHub: https://github.com/Shyllon
+
+🧠 Closing Statement
+
+I am focused on building backend systems that are not just functional—but reliable, secure, and production-ready.
