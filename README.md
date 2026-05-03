@@ -1,6 +1,7 @@
 Hello, I am Afolabi Shyllon 
 
 Backend Engineer | Node.js | API Systems | Backend Architecture | Secure Systems
+Open to Backend Engineer roles (Remote / Hybrid / Global)
 
 I design and build backend systems focused on data integrity, secure APIs, and real-time validation workflows.
 My work sits at the intersection of system design, backend logic, and practical problem-solving in production-like environments.
@@ -81,3 +82,5 @@ GitHub: https://github.com/Shyllon
 I am focused on building backend systems that are not just functional—but reliable, secure, and production-ready.
 
 Actively seeking Backend Engineer opportunities (Node.js, APIs, Distributed Systems)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shyllon&show_icons=true&theme=radical)
