@@ -14,6 +14,7 @@ Secure data systems with access control (RLS, authentication logic)
 Scalable backend services for full-stack applications
 
 🛡️ Flagship Project
+
 🛡️ VendorGuard AI — Real-Time Fraud Detection System
 
 A backend system that prevents financial fraud by validating receipts using OCR, session verification, and replay attack detection.
