@@ -86,5 +86,5 @@ Actively seeking Backend Engineer opportunities (Node.js, APIs, Distributed Syst
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyllon&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shyllon&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shyllon)
 
