@@ -79,3 +79,5 @@ GitHub: https://github.com/Shyllon
 🧠 Closing Statement
 
 I am focused on building backend systems that are not just functional—but reliable, secure, and production-ready.
+
+Actively seeking Backend Engineer opportunities (Node.js, APIs, Distributed Systems)
