@@ -84,8 +84,6 @@ I am focused on building backend systems that are not just functional—but reli
 
 Actively seeking Backend Engineer opportunities (Node.js, APIs, Distributed Systems)
 
-Top Languages:
-
 ## 🚀 Tech Stack & Tools
 
 | Category           | Technologies                                                                                                       |
@@ -98,12 +96,12 @@ Top Languages:
 
 ## 📊 My GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shyllon&show_icons=true&theme=radical&rank_icon=github" alt="Afolabi's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyllon&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+Top Languages:
 
-> 
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Shyllon&show_icons=true&theme=radical)
+
+GitHub Stats:
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Shyllon&show_icons=true&theme=radical)
 
 **Note:** Stats reflect recent focus on high-impact backend architecture and security-first development.
