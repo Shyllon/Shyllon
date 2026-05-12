@@ -84,7 +84,10 @@ I am focused on building backend systems that are not just functional—but reli
 
 Actively seeking Backend Engineer opportunities (Node.js, APIs, Distributed Systems)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyllon&layout=compact&theme=radical)
+Top Languages:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shyllon)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Shyllon&layout=compact&theme=radical)
 
+GitHub Stats:
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Shyllon&show_icon
