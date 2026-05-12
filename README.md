@@ -86,8 +86,24 @@ Actively seeking Backend Engineer opportunities (Node.js, APIs, Distributed Syst
 
 Top Languages:
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Shyllon&layout=compact&theme=radical)
+## 🚀 Tech Stack & Tools
 
-GitHub Stats:
+| Category           | Technologies                                                                                                       |
+|--------------------|--------------------------------------------------------------------------------------------------------------------|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) |
+| **Fintech/Security**| ![PCI DSS](https://img.shields.io/badge/-Compliance-FF9900?logo=securityscorecard&logoColor=white) **Fraud Detection** |
+| **Testing/DevOps**| ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?logo=github-actions&logoColor=white) |
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Shyllon&show_icon
+## 📊 My GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shyllon&show_icons=true&theme=radical&rank_icon=github" alt="Afolabi's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyllon&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+> 
+
+**Note:** Stats reflect recent focus on high-impact backend architecture and security-first development.
